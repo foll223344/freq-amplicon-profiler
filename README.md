@@ -1,5 +1,7 @@
 # freq — per-position substitution frequency profiles from amplicon deep sequencing
+
 [![DOI](https://zenodo.org/badge/1375889118.svg)](https://doi.org/10.5281/zenodo.22831732)
+
 `freq.py` computes and plots per-position substitution frequencies (mutations per
 thousand reads) across a genomic window from a table of variant calls, as used for
 APOBEC3A-induced C>T / G>A profiling of PCR amplicons.
